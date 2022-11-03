@@ -2,6 +2,7 @@
 
   Autenticação do titulo de eleitor com verificação facial
 ![](https://img.shields.io/badge/Voter_ID_authentication_with_face_verification)
+
 ![](https://img.shields.io/badge/Python-blue)
 ![](https://img.shields.io/badge/OPenCV-green)
 
